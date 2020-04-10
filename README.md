@@ -11,6 +11,12 @@ J'ajoute ça dans le git local
 
 Mais ça seulement dans le working dir
 
+Ah non en fait c'etait ça
+
+
+Ca, ça reset dans le working dir
+
+
 ## Purpose
 
 Sample website with plenty of files for demos
