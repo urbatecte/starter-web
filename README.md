@@ -7,6 +7,9 @@ Ca c'est bien
 
 Mais ça c'est meiux
 
+J'ajoute ça dans le git local
+
+Mais ça seulement dans le working dir
 
 ## Purpose
 
