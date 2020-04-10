@@ -1,6 +1,12 @@
 # Starter Web Repo
 Tiens j'en met là aussi
+
 This repository is for showing how Git and GitHub work
+
+Ca c'est bien
+
+Mais ça c'est meiux
+
 
 ## Purpose
 
