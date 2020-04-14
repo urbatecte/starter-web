@@ -17,7 +17,7 @@ Ah non en fait c'etait ça
 Ca, ça reset dans le working dir
 
 ## Introduction
-Ajout de blabla avant rebasing
+Ajout de blabla avant rebasing et maintenant j'aoute du blabla via la branche myfeature
 
 ## Purpose
 
