@@ -16,6 +16,8 @@ Ah non en fait c'etait ça
 
 Ca, ça reset dans le working dir
 
+## Introduction
+Ajout de blabla avant rebasing
 
 ## Purpose
 
