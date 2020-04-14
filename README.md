@@ -34,6 +34,10 @@ ben rien
 
 Ah ben si un nouveau blabla
 
+## How to contribute
+
+Forker le repo et faite un PR pout qu'il soit revu
+
 ### Copyright
 
 2020 Bibi
