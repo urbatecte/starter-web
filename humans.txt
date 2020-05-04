@@ -8,7 +8,7 @@
 # THANKS
 
     A tous les p'tits gars !
-
+	Laisser une revue si le cours est bien
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
