@@ -13,6 +13,8 @@ Mais ça seulement dans le working dir
 
 Ah non en fait c'etait ça
 
+Modif urgente après stash
+
 
 Ca, ça reset dans le working dir
 
