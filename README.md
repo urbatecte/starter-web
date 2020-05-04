@@ -42,5 +42,5 @@ Forker le repo et faite un PR pout qu'il soit revu
 
 ### Copyright
 
-2020 Bibi
+2020 Bibi. All right reserved
 
