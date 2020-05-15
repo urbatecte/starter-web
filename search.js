@@ -1,4 +1,4 @@
-// allow user to search
+// allow user to search bu username
 
 # robotstxt.org/
 
